@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_hyDc4LabEfGSGrbrRtrq3Q" type="UseCase" name="Exercise-W2" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_2KQFELabEfGSGrbrRtrq3Q" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2KQsILabEfGSGrbrRtrq3Q" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2KRTMLabEfGSGrbrRtrq3Q" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2KRTMbabEfGSGrbrRtrq3Q" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_2KU9kLabEfGSGrbrRtrq3Q" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_2KU9kbabEfGSGrbrRtrq3Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_2KU9krabEfGSGrbrRtrq3Q"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2KU9k7abEfGSGrbrRtrq3Q"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="PracticalExercises.uml#_2KMasLabEfGSGrbrRtrq3Q"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2KQFEbabEfGSGrbrRtrq3Q" x="200" y="160" width="141" height="61"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fO_fQLv2EfGxO6rlSrvKXA" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fPBUcLv2EfGxO6rlSrvKXA" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fPB7gLv2EfGxO6rlSrvKXA" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fPB7gbv2EfGxO6rlSrvKXA" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fPB7grv2EfGxO6rlSrvKXA" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fPCikLv2EfGxO6rlSrvKXA" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fPCikbv2EfGxO6rlSrvKXA" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fPCikrv2EfGxO6rlSrvKXA" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fPCik7v2EfGxO6rlSrvKXA" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="PracticalExercises.uml#_fOyq8Lv2EfGxO6rlSrvKXA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fO_fQbv2EfGxO6rlSrvKXA" x="100" y="240" width="61" height="61"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_hyDc4babEfGSGrbrRtrq3Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_hyDc4rabEfGSGrbrRtrq3Q"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_hyDc47abEfGSGrbrRtrq3Q" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="PracticalExercises.uml#_6k9yULaaEfGSGrbrRtrq3Q"/>
+  </styles>
+  <element xmi:type="uml:Model" href="PracticalExercises.uml#_6k9yULaaEfGSGrbrRtrq3Q"/>
+  <edges xmi:type="notation:Connector" xmi:id="_pF-ygLv2EfGxO6rlSrvKXA" type="Association_Edge" source="_fO_fQLv2EfGxO6rlSrvKXA" target="_2KQFELabEfGSGrbrRtrq3Q">
+    <children xmi:type="notation:DecorationNode" xmi:id="_pF_ZkLv2EfGxO6rlSrvKXA" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_pF_Zkbv2EfGxO6rlSrvKXA" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_pF_Zkrv2EfGxO6rlSrvKXA" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_pGAAoLv2EfGxO6rlSrvKXA" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_pF-ygbv2EfGxO6rlSrvKXA"/>
+    <element xmi:type="uml:Association" href="PracticalExercises.uml#_pF22sLv2EfGxO6rlSrvKXA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pF-ygrv2EfGxO6rlSrvKXA" points="[120, 240, -643984, -643984]$[200, 190, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pGg-ALv2EfGxO6rlSrvKXA" id="(0.6557377049180327,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pGhlELv2EfGxO6rlSrvKXA" id="(0.0,0.498360655737705)"/>
+  </edges>
+</notation:Diagram>
