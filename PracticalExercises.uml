@@ -5,7 +5,7 @@
   </packageImport>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_2KMasLabEfGSGrbrRtrq3Q" name="Example use case"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_fOyq8Lv2EfGxO6rlSrvKXA" name="Actor3"/>
-  <packagedElement xmi:type="uml:Association" xmi:id="_pF22sLv2EfGxO6rlSrvKXA" name="association" memberEnd="_pF6hELv2EfGxO6rlSrvKXA _pF7IILv2EfGxO6rlSrvKXA">
+  <packagedElement xmi:type="uml:Association" xmi:id="_pF22sLv2EfGxO6rlSrvKXA" name="" memberEnd="_pF6hELv2EfGxO6rlSrvKXA _pF7IILv2EfGxO6rlSrvKXA">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_pF5S8Lv2EfGxO6rlSrvKXA" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pF5S8bv2EfGxO6rlSrvKXA" key="nature" value="UML_Nature"/>
     </eAnnotations>
